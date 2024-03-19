@@ -1,6 +1,5 @@
-### This is my first repository. 👋
-## I think it is a little bit difficult to learn the coding.
-But if I am accustomed to use the coding program, I think it is efficient for my class
+### Welcome to Norhajeong's github
+## How are you today?
 
 <!--
 **Norhajeong/Norhajeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
